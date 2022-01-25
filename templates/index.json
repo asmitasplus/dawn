@@ -165,8 +165,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/detail_21253_16359006119809.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "減圧状態",
+            "text": "<p>グルミールの調理では、消火後に減圧状態を継続することにより、減圧しない場合と比べて柔らかくなることが示唆されています。<\/p><p>加熱時間を短縮することができるため、味がしみこんだ柔らかい料理がカンタンに作れます。<\/p>",
             "link_label": "",
             "link": ""
           }
