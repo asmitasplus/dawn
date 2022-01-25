@@ -155,8 +155,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/detail_21253_16358431202799.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "比較",
+            "text": "<p>かぶで減圧調理と常圧調理で食塩浸透を比較した際に、減圧調理の方が約1.5倍浸透する事を確認しました。<br\/>※【出典】金城学院大学と東邦ガスとの共同研究<br\/>【方法】4cm角に切ったかぶを食塩水中で10分加熱。減圧もしくは常圧状態で、10分または20分放置後、かぶの中心部を切り出して塩分濃度を測定。<\/p>",
             "link_label": "",
             "link": ""
           }
