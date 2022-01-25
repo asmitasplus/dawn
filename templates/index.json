@@ -101,7 +101,8 @@
         "video": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify:\/\/shop_images\/detail_21253_16348866820759.jpg",
+            "video_url": "https:\/\/youtu.be\/nVDw97SyBGo",
             "description": "Describe the video",
             "image_padding": false
           }
