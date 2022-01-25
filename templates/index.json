@@ -27,6 +27,8 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/detail_21253_16348866820759.jpg",
+        "image_2": "shopify:\/\/shop_images\/detail_21253_16349759372559.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -45,14 +47,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "東邦ガスがオリジナル多機能減圧鍋【グルミール／GOUR-MEAL】を作りました。",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>10分の減圧で「染みた味」の体験を。ガス会社が辿り着いた“減圧鍋“｜グルミール<\/p>"
           }
         },
         "button": {
