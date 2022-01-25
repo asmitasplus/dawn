@@ -174,9 +174,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/detail_21253_16359006119809_1.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/detail_21253_16359006114986.jpg",
+            "title": "最大荷重",
+            "text": "<p>※【出典】金城学院大学と東邦ガスとの共同研究<br\/>【方法】グルミールの試作機では10分間加熱ののち10分間減圧状態で放置し、ステンレス鍋では10～17分の加熱で肉じゃがを作り(加熱時間以外は同一条件)、じゃがいもの固さ(最大荷重・破断荷重)を測定。<\/p><p>最大荷重：サンプルを破壊した際に必要な最大の力<br\/>破断荷重：サンプルの表面組織を破壊する際に必要な力<\/p>",
             "link_label": "",
             "link": ""
           }
