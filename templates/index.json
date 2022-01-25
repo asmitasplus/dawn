@@ -20,11 +20,19 @@
             "button_link_2": "",
             "button_style_secondary_2": true
           }
+        },
+        "e8dafd58-f794-4a57-8083-c6bb9b767bf6": {
+          "type": "text",
+          "settings": {
+            "text": "普段使いはもちろん、減圧調理・無水調理・自動炊飯もラクラク。",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "heading",
-        "button"
+        "button",
+        "e8dafd58-f794-4a57-8083-c6bb9b767bf6"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/detail_21253_16348866820759.jpg",
