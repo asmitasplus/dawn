@@ -68,8 +68,8 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "こちらへ",
+            "button_link": "https:\/\/www.makuake.com\/project\/gourmeal_tohogas\/",
             "button_style_secondary": false
           }
         }
